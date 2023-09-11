@@ -1,0 +1,543 @@
+epochs: 0, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 1.8526	loss2: 0.8374	loss3: 0.3620	loss4: 1.2025	loss5: 0.7603	loss6: 0.8192	loss7: 0.5854	loss8: 0.3330
+epochs: 1, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2700	loss2: 0.4770	loss3: 0.0206	loss4: 0.2593	loss5: 0.6075	loss6: 0.0438	loss7: 0.1998	loss8: 0.1922
+epochs: 2, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2640	loss2: 0.4638	loss3: 0.0202	loss4: 0.2592	loss5: 0.5488	loss6: 0.0042	loss7: 0.1908	loss8: 0.1984
+epochs: 3, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2591	loss2: 0.4708	loss3: 0.0233	loss4: 0.2606	loss5: 0.5366	loss6: 0.0046	loss7: 0.1925	loss8: 0.1861
+epochs: 4, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2602	loss2: 0.4618	loss3: 0.0251	loss4: 0.2589	loss5: 0.5336	loss6: 0.0101	loss7: 0.1855	loss8: 0.1816
+epochs: 5, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2610	loss2: 0.4765	loss3: 0.0211	loss4: 0.2620	loss5: 0.5214	loss6: 0.0011	loss7: 0.1829	loss8: 0.1727
+epochs: 6, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2581	loss2: 0.4547	loss3: 0.0216	loss4: 0.2639	loss5: 0.5454	loss6: 0.0004	loss7: 0.1853	loss8: 0.1838
+epochs: 7, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2577	loss2: 0.4656	loss3: 0.0214	loss4: 0.2716	loss5: 0.5353	loss6: 0.0004	loss7: 0.1878	loss8: 0.1797
+epochs: 8, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2598	loss2: 0.4775	loss3: 0.0255	loss4: 0.2568	loss5: 0.5652	loss6: 0.0013	loss7: 0.1892	loss8: 0.1778
+epochs: 9, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2619	loss2: 0.4550	loss3: 0.0300	loss4: 0.2677	loss5: 0.5355	loss6: 0.0105	loss7: 0.1900	loss8: 0.1841
+epochs: 10, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2623	loss2: 0.4830	loss3: 0.0707	loss4: 0.2597	loss5: 0.5873	loss6: 0.0135	loss7: 0.1833	loss8: 0.1770
+epochs: 11, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2619	loss2: 0.4696	loss3: 0.0396	loss4: 0.2724	loss5: 0.5703	loss6: 0.0352	loss7: 0.1948	loss8: 0.1759
+epochs: 12, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2670	loss2: 0.4972	loss3: 0.0645	loss4: 0.2595	loss5: 0.5966	loss6: 0.0127	loss7: 0.1961	loss8: 0.1808
+epochs: 13, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2621	loss2: 0.4707	loss3: 0.0254	loss4: 0.2573	loss5: 0.5811	loss6: 0.0025	loss7: 0.1941	loss8: 0.1832
+epochs: 14, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2641	loss2: 0.4604	loss3: 0.0207	loss4: 0.2695	loss5: 0.5665	loss6: 0.0016	loss7: 0.1885	loss8: 0.1797
+epochs: 15, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2685	loss2: 0.4880	loss3: 0.0365	loss4: 0.2650	loss5: 0.5621	loss6: 0.0105	loss7: 0.1911	loss8: 0.1749
+epochs: 16, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2627	loss2: 0.4610	loss3: 0.0349	loss4: 0.2595	loss5: 0.5301	loss6: 0.0487	loss7: 0.1933	loss8: 0.1724
+epochs: 17, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2587	loss2: 0.4566	loss3: 0.0216	loss4: 0.2590	loss5: 0.5338	loss6: 0.0227	loss7: 0.1960	loss8: 0.1784
+epochs: 18, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2580	loss2: 0.4543	loss3: 0.0207	loss4: 0.2615	loss5: 0.5067	loss6: 0.0052	loss7: 0.1888	loss8: 0.1788
+epochs: 19, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2582	loss2: 0.4664	loss3: 0.0207	loss4: 0.2603	loss5: 0.5230	loss6: 0.0021	loss7: 0.1909	loss8: 0.1760
+epochs: 20, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2590	loss2: 0.4734	loss3: 0.0203	loss4: 0.2612	loss5: 0.5401	loss6: 0.0002	loss7: 0.1914	loss8: 0.1726
+epochs: 21, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2654	loss2: 0.4743	loss3: 0.0223	loss4: 0.2610	loss5: 0.5405	loss6: 0.0000	loss7: 0.1894	loss8: 0.1734
+epochs: 22, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2600	loss2: 0.4657	loss3: 0.0207	loss4: 0.2678	loss5: 0.4934	loss6: 0.0000	loss7: 0.1915	loss8: 0.1747
+epochs: 23, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2577	loss2: 0.4813	loss3: 0.0203	loss4: 0.2595	loss5: 0.5418	loss6: 0.0000	loss7: 0.1878	loss8: 0.1727
+epochs: 24, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2610	loss2: 0.4764	loss3: 0.0416	loss4: 0.2604	loss5: 0.5049	loss6: 0.0002	loss7: 0.1870	loss8: 0.1773
+epochs: 25, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2626	loss2: 0.4555	loss3: 0.0256	loss4: 0.2655	loss5: 0.5716	loss6: 0.0001	loss7: 0.1888	loss8: 0.1717
+epochs: 26, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2593	loss2: 0.4707	loss3: 0.0226	loss4: 0.2571	loss5: 0.5742	loss6: 0.0001	loss7: 0.1863	loss8: 0.1752
+epochs: 27, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2603	loss2: 0.4878	loss3: 0.0788	loss4: 0.2602	loss5: 0.5766	loss6: 0.0289	loss7: 0.1915	loss8: 0.1846
+epochs: 28, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2616	loss2: 0.4551	loss3: 0.0226	loss4: 0.2587	loss5: 0.5941	loss6: 0.0090	loss7: 0.1885	loss8: 0.1744
+epochs: 29, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2611	loss2: 0.4734	loss3: 0.0202	loss4: 0.2594	loss5: 0.5458	loss6: 0.0031	loss7: 0.1804	loss8: 0.1667
+epochs: 30, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2648	loss2: 0.4865	loss3: 0.0206	loss4: 0.2618	loss5: 0.5220	loss6: 0.0015	loss7: 0.1757	loss8: 0.1639
+epochs: 31, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2675	loss2: 0.4481	loss3: 0.0223	loss4: 0.2604	loss5: 0.5689	loss6: 0.0348	loss7: 0.1845	loss8: 0.1713
+epochs: 32, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2915	loss2: 0.6494	loss3: 0.1388	loss4: 0.3211	loss5: 0.6566	loss6: 0.0433	loss7: 0.2028	loss8: 0.1880
+epochs: 33, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2584	loss2: 0.5000	loss3: 0.0396	loss4: 0.2590	loss5: 0.5908	loss6: 0.0565	loss7: 0.1891	loss8: 0.1786
+epochs: 34, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2601	loss2: 0.4832	loss3: 0.0239	loss4: 0.2672	loss5: 0.6007	loss6: 0.0205	loss7: 0.1909	loss8: 0.1784
+epochs: 35, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2614	loss2: 0.4760	loss3: 0.0211	loss4: 0.2617	loss5: 0.5828	loss6: 0.0010	loss7: 0.1897	loss8: 0.1778
+epochs: 36, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2587	loss2: 0.4551	loss3: 0.0201	loss4: 0.2614	loss5: 0.5639	loss6: 0.0007	loss7: 0.2003	loss8: 0.1752
+epochs: 37, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2679	loss2: 0.4681	loss3: 0.0203	loss4: 0.2600	loss5: 0.5526	loss6: 0.0005	loss7: 0.1927	loss8: 0.1734
+epochs: 38, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2573	loss2: 0.4504	loss3: 0.0201	loss4: 0.2639	loss5: 0.5557	loss6: 0.0002	loss7: 0.1912	loss8: 0.1719
+epochs: 39, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2618	loss2: 0.4716	loss3: 0.0207	loss4: 0.2597	loss5: 0.5806	loss6: 0.0001	loss7: 0.1796	loss8: 0.1723
+epochs: 40, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2804	loss2: 0.4629	loss3: 0.0214	loss4: 0.2678	loss5: 0.5523	loss6: 0.0000	loss7: 0.1785	loss8: 0.1640
+epochs: 41, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2728	loss2: 0.4884	loss3: 0.0207	loss4: 0.2632	loss5: 0.5445	loss6: 0.0000	loss7: 0.1851	loss8: 0.1685
+epochs: 42, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2623	loss2: 0.4441	loss3: 0.0211	loss4: 0.2641	loss5: 0.5382	loss6: 0.0000	loss7: 0.1818	loss8: 0.1714
+epochs: 43, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2600	loss2: 0.4634	loss3: 0.0222	loss4: 0.2661	loss5: 0.5296	loss6: 0.0000	loss7: 0.1871	loss8: 0.1725
+epochs: 44, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2616	loss2: 0.4894	loss3: 0.0205	loss4: 0.2580	loss5: 0.5399	loss6: 0.0000	loss7: 0.1833	loss8: 0.1682
+epochs: 45, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2632	loss2: 0.4642	loss3: 0.0206	loss4: 0.2717	loss5: 0.5518	loss6: 0.0000	loss7: 0.1879	loss8: 0.1717
+epochs: 46, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2740	loss2: 0.4525	loss3: 0.0213	loss4: 0.2636	loss5: 0.5013	loss6: 0.0000	loss7: 0.1844	loss8: 0.1651
+epochs: 47, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2613	loss2: 0.4630	loss3: 0.0233	loss4: 0.2618	loss5: 0.5536	loss6: 0.0000	loss7: 0.1769	loss8: 0.1580
+epochs: 48, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2615	loss2: 0.4530	loss3: 0.0209	loss4: 0.2603	loss5: 0.5555	loss6: 0.0000	loss7: 0.1772	loss8: 0.1580
+epochs: 49, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2613	loss2: 0.4481	loss3: 0.0204	loss4: 0.2637	loss5: 0.5330	loss6: 0.0000	loss7: 0.1784	loss8: 0.1560
+epochs: 50, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2624	loss2: 0.4725	loss3: 0.0215	loss4: 0.2604	loss5: 0.5192	loss6: 0.0000	loss7: 0.1814	loss8: 0.1618
+epochs: 51, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2599	loss2: 0.4519	loss3: 0.0219	loss4: 0.2596	loss5: 0.5404	loss6: 0.0000	loss7: 0.1814	loss8: 0.1620
+epochs: 52, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2585	loss2: 0.4592	loss3: 0.0202	loss4: 0.2660	loss5: 0.5313	loss6: 0.0000	loss7: 0.1856	loss8: 0.1648
+epochs: 53, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2626	loss2: 0.4523	loss3: 0.0252	loss4: 0.2618	loss5: 0.5535	loss6: 0.0000	loss7: 0.1830	loss8: 0.1554
+epochs: 54, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2630	loss2: 0.4973	loss3: 0.0206	loss4: 0.2588	loss5: 0.5338	loss6: 0.0000	loss7: 0.1818	loss8: 0.1623
+epochs: 55, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2601	loss2: 0.4870	loss3: 0.0258	loss4: 0.2637	loss5: 0.5318	loss6: 0.0000	loss7: 0.1849	loss8: 0.1736
+epochs: 56, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2629	loss2: 0.4618	loss3: 0.0207	loss4: 0.2586	loss5: 0.5691	loss6: 0.0000	loss7: 0.1960	loss8: 0.1743
+epochs: 57, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2595	loss2: 0.4527	loss3: 0.0220	loss4: 0.2612	loss5: 0.5347	loss6: 0.0000	loss7: 0.1894	loss8: 0.1727
+epochs: 58, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2617	loss2: 0.4510	loss3: 0.0209	loss4: 0.2630	loss5: 0.5143	loss6: 0.0000	loss7: 0.1876	loss8: 0.1713
+epochs: 59, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2598	loss2: 0.4791	loss3: 0.0226	loss4: 0.2692	loss5: 0.5344	loss6: 0.0000	loss7: 0.1804	loss8: 0.1693
+epochs: 60, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2682	loss2: 0.4456	loss3: 0.0203	loss4: 0.2617	loss5: 0.5603	loss6: 0.0000	loss7: 0.1829	loss8: 0.1646
+epochs: 61, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2626	loss2: 0.4538	loss3: 0.0212	loss4: 0.2622	loss5: 0.5467	loss6: 0.0000	loss7: 0.1756	loss8: 0.1565
+epochs: 62, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2604	loss2: 0.4706	loss3: 0.0249	loss4: 0.2608	loss5: 0.5445	loss6: 0.0000	loss7: 0.1787	loss8: 0.1567
+epochs: 63, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2594	loss2: 0.4693	loss3: 0.0489	loss4: 0.2789	loss5: 0.5680	loss6: 0.0000	loss7: 0.1746	loss8: 0.1500
+epochs: 64, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2593	loss2: 0.4642	loss3: 0.0407	loss4: 0.2669	loss5: 0.5246	loss6: 0.0000	loss7: 0.1899	loss8: 0.1729
+epochs: 65, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2589	loss2: 0.4756	loss3: 0.0255	loss4: 0.2602	loss5: 0.5093	loss6: 0.0000	loss7: 0.1863	loss8: 0.1643
+epochs: 66, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2663	loss2: 0.4711	loss3: 0.0490	loss4: 0.2705	loss5: 0.5996	loss6: 0.1029	loss7: 0.1909	loss8: 0.1711
+epochs: 67, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2713	loss2: 0.5401	loss3: 0.1342	loss4: 0.2737	loss5: 0.5869	loss6: 0.1195	loss7: 0.1922	loss8: 0.1834
+epochs: 68, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2625	loss2: 0.4910	loss3: 0.0237	loss4: 0.2590	loss5: 0.5978	loss6: 0.0122	loss7: 0.2004	loss8: 0.1847
+epochs: 69, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2620	loss2: 0.4813	loss3: 0.0206	loss4: 0.2590	loss5: 0.5941	loss6: 0.0020	loss7: 0.1929	loss8: 0.1779
+epochs: 70, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2603	loss2: 0.4674	loss3: 0.0201	loss4: 0.2665	loss5: 0.5974	loss6: 0.0005	loss7: 0.1927	loss8: 0.1716
+epochs: 71, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2602	loss2: 0.4693	loss3: 0.0202	loss4: 0.2599	loss5: 0.5746	loss6: 0.0008	loss7: 0.1866	loss8: 0.1655
+epochs: 72, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2601	loss2: 0.4649	loss3: 0.0201	loss4: 0.2604	loss5: 0.5550	loss6: 0.0003	loss7: 0.1808	loss8: 0.1624
+epochs: 73, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2664	loss2: 0.4731	loss3: 0.0203	loss4: 0.2601	loss5: 0.5559	loss6: 0.0002	loss7: 0.1862	loss8: 0.1637
+epochs: 74, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2642	loss2: 0.4718	loss3: 0.0202	loss4: 0.2603	loss5: 0.5750	loss6: 0.0014	loss7: 0.1841	loss8: 0.1619
+epochs: 75, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2666	loss2: 0.4580	loss3: 0.0202	loss4: 0.2605	loss5: 0.5599	loss6: 0.0059	loss7: 0.1855	loss8: 0.1667
+epochs: 76, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2577	loss2: 0.4512	loss3: 0.0201	loss4: 0.2631	loss5: 0.5572	loss6: 0.0019	loss7: 0.1799	loss8: 0.1603
+epochs: 77, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2633	loss2: 0.4635	loss3: 0.0204	loss4: 0.2588	loss5: 0.5875	loss6: 0.0024	loss7: 0.1797	loss8: 0.1625
+epochs: 78, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2697	loss2: 0.4557	loss3: 0.0210	loss4: 0.2579	loss5: 0.5555	loss6: 0.0051	loss7: 0.1829	loss8: 0.1608
+epochs: 79, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2599	loss2: 0.4488	loss3: 0.0201	loss4: 0.2658	loss5: 0.5506	loss6: 0.0012	loss7: 0.1816	loss8: 0.1569
+epochs: 80, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2853	loss2: 0.4607	loss3: 0.0203	loss4: 0.2603	loss5: 0.5437	loss6: 0.0012	loss7: 0.1801	loss8: 0.1570
+epochs: 81, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2597	loss2: 0.4728	loss3: 0.0203	loss4: 0.2642	loss5: 0.5662	loss6: 0.0005	loss7: 0.1879	loss8: 0.1609
+epochs: 82, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2660	loss2: 0.4435	loss3: 0.0207	loss4: 0.2595	loss5: 0.5586	loss6: 0.0001	loss7: 0.1815	loss8: 0.1623
+epochs: 83, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2596	loss2: 0.5119	loss3: 0.0698	loss4: 0.2731	loss5: 0.5733	loss6: 0.0113	loss7: 0.1844	loss8: 0.1624
+epochs: 84, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2633	loss2: 0.4781	loss3: 0.0240	loss4: 0.2655	loss5: 0.5533	loss6: 0.0041	loss7: 0.1867	loss8: 0.1591
+epochs: 85, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2576	loss2: 0.4526	loss3: 0.0201	loss4: 0.2589	loss5: 0.5444	loss6: 0.0027	loss7: 0.1807	loss8: 0.1689
+epochs: 86, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2637	loss2: 0.4934	loss3: 0.0205	loss4: 0.2700	loss5: 0.5649	loss6: 0.0017	loss7: 0.1868	loss8: 0.1665
+epochs: 87, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2609	loss2: 0.4732	loss3: 0.0205	loss4: 0.2667	loss5: 0.5340	loss6: 0.0007	loss7: 0.1803	loss8: 0.1640
+epochs: 88, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2629	loss2: 0.4598	loss3: 0.0213	loss4: 0.2615	loss5: 0.5649	loss6: 0.0210	loss7: 0.1855	loss8: 0.1707
+epochs: 89, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2609	loss2: 0.4968	loss3: 0.0202	loss4: 0.2605	loss5: 0.5027	loss6: 0.0010	loss7: 0.1789	loss8: 0.1629
+epochs: 90, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2687	loss2: 0.4636	loss3: 0.0207	loss4: 0.2610	loss5: 0.5341	loss6: 0.0014	loss7: 0.1771	loss8: 0.1575
+epochs: 91, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2715	loss2: 0.4709	loss3: 0.0208	loss4: 0.2649	loss5: 0.5150	loss6: 0.0002	loss7: 0.1815	loss8: 0.1616
+epochs: 92, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2648	loss2: 0.4681	loss3: 0.0204	loss4: 0.2663	loss5: 0.5293	loss6: 0.0004	loss7: 0.1874	loss8: 0.1665
+epochs: 93, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2579	loss2: 0.4624	loss3: 0.0205	loss4: 0.2602	loss5: 0.5127	loss6: 0.0003	loss7: 0.1838	loss8: 0.1634
+epochs: 94, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2624	loss2: 0.4725	loss3: 0.0207	loss4: 0.2610	loss5: 0.5521	loss6: 0.0005	loss7: 0.1777	loss8: 0.1629
+epochs: 95, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2596	loss2: 0.4544	loss3: 0.0205	loss4: 0.2617	loss5: 0.5051	loss6: 0.0005	loss7: 0.1713	loss8: 0.1605
+epochs: 96, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2589	loss2: 0.4731	loss3: 0.0207	loss4: 0.2602	loss5: 0.5212	loss6: 0.0002	loss7: 0.1754	loss8: 0.1586
+epochs: 97, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2674	loss2: 0.4766	loss3: 0.0237	loss4: 0.2726	loss5: 0.5803	loss6: 0.0063	loss7: 0.1842	loss8: 0.1628
+epochs: 98, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2587	loss2: 0.4607	loss3: 0.0276	loss4: 0.2585	loss5: 0.5374	loss6: 0.0337	loss7: 0.1895	loss8: 0.1648
+epochs: 99, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2656	loss2: 0.4445	loss3: 0.0202	loss4: 0.2604	loss5: 0.5121	loss6: 0.0071	loss7: 0.1839	loss8: 0.1670
+epochs: 100, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2607	loss2: 0.4657	loss3: 0.0229	loss4: 0.2590	loss5: 0.5392	loss6: 0.0045	loss7: 0.1803	loss8: 0.1570
+epochs: 101, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2639	loss2: 0.4734	loss3: 0.0691	loss4: 0.2648	loss5: 0.5396	loss6: 0.0051	loss7: 0.1756	loss8: 0.1585
+epochs: 102, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2604	loss2: 0.4723	loss3: 0.0240	loss4: 0.2622	loss5: 0.5240	loss6: 0.0036	loss7: 0.1731	loss8: 0.1549
+epochs: 103, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2669	loss2: 0.4531	loss3: 0.0226	loss4: 0.2681	loss5: 0.5514	loss6: 0.0027	loss7: 0.1855	loss8: 0.1615
+epochs: 104, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2619	loss2: 0.4735	loss3: 0.0350	loss4: 0.2613	loss5: 0.5367	loss6: 0.0111	loss7: 0.1875	loss8: 0.1592
+epochs: 105, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2666	loss2: 0.4720	loss3: 0.0333	loss4: 0.2655	loss5: 0.5338	loss6: 0.0206	loss7: 0.1788	loss8: 0.1604
+epochs: 106, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2670	loss2: 0.4791	loss3: 0.0287	loss4: 0.2605	loss5: 0.5264	loss6: 0.0228	loss7: 0.1744	loss8: 0.1536
+epochs: 107, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2608	loss2: 0.4656	loss3: 0.0250	loss4: 0.2594	loss5: 0.5298	loss6: 0.0790	loss7: 0.1753	loss8: 0.1524
+epochs: 108, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2773	loss2: 0.4932	loss3: 0.0308	loss4: 0.2857	loss5: 0.5663	loss6: 0.0447	loss7: 0.1750	loss8: 0.1579
+epochs: 109, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2671	loss2: 0.4530	loss3: 0.0254	loss4: 0.2603	loss5: 0.5269	loss6: 0.0032	loss7: 0.1735	loss8: 0.1592
+epochs: 110, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2632	loss2: 0.4608	loss3: 0.0205	loss4: 0.2694	loss5: 0.5075	loss6: 0.0049	loss7: 0.1740	loss8: 0.1600
+epochs: 111, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2628	loss2: 0.4994	loss3: 0.0613	loss4: 0.2613	loss5: 0.6003	loss6: 0.1042	loss7: 0.1903	loss8: 0.1815
+epochs: 112, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2615	loss2: 0.4601	loss3: 0.0217	loss4: 0.2588	loss5: 0.5812	loss6: 0.0012	loss7: 0.1824	loss8: 0.1759
+epochs: 113, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2673	loss2: 0.4697	loss3: 0.0212	loss4: 0.2625	loss5: 0.5559	loss6: 0.0003	loss7: 0.1820	loss8: 0.1689
+epochs: 114, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2620	loss2: 0.4803	loss3: 0.0212	loss4: 0.2621	loss5: 0.5283	loss6: 0.0002	loss7: 0.1745	loss8: 0.1633
+epochs: 115, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2574	loss2: 0.4757	loss3: 0.0202	loss4: 0.2597	loss5: 0.5340	loss6: 0.0001	loss7: 0.1765	loss8: 0.1624
+epochs: 116, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2686	loss2: 0.4468	loss3: 0.0206	loss4: 0.2591	loss5: 0.5506	loss6: 0.0000	loss7: 0.1789	loss8: 0.1654
+epochs: 117, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2629	loss2: 0.4688	loss3: 0.0206	loss4: 0.2597	loss5: 0.5403	loss6: 0.0000	loss7: 0.1830	loss8: 0.1601
+epochs: 118, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2589	loss2: 0.4670	loss3: 0.0202	loss4: 0.2586	loss5: 0.5164	loss6: 0.0000	loss7: 0.1812	loss8: 0.1626
+epochs: 119, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2620	loss2: 0.4544	loss3: 0.0220	loss4: 0.2623	loss5: 0.5415	loss6: 0.0000	loss7: 0.1866	loss8: 0.1636
+epochs: 120, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2774	loss2: 0.4765	loss3: 0.0274	loss4: 0.2611	loss5: 0.5415	loss6: 0.0000	loss7: 0.1787	loss8: 0.1545
+epochs: 121, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2855	loss2: 0.5011	loss3: 0.0552	loss4: 0.2653	loss5: 0.5995	loss6: 0.0000	loss7: 0.1671	loss8: 0.1540
+epochs: 122, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2611	loss2: 0.4801	loss3: 0.0211	loss4: 0.2790	loss5: 0.5842	loss6: 0.0000	loss7: 0.1734	loss8: 0.1528
+epochs: 123, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2600	loss2: 0.4926	loss3: 0.0368	loss4: 0.2672	loss5: 0.5952	loss6: 0.0073	loss7: 0.1736	loss8: 0.1613
+epochs: 124, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2609	loss2: 0.5276	loss3: 0.0341	loss4: 0.2608	loss5: 0.5971	loss6: 0.0182	loss7: 0.1800	loss8: 0.1635
+epochs: 125, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2596	loss2: 0.4779	loss3: 0.0209	loss4: 0.2771	loss5: 0.5346	loss6: 0.0461	loss7: 0.1748	loss8: 0.1569
+epochs: 126, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2635	loss2: 0.4611	loss3: 0.0206	loss4: 0.2680	loss5: 0.5422	loss6: 0.0116	loss7: 0.1806	loss8: 0.1591
+epochs: 127, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2568	loss2: 0.4716	loss3: 0.0203	loss4: 0.2680	loss5: 0.5318	loss6: 0.0053	loss7: 0.1820	loss8: 0.1693
+epochs: 128, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2632	loss2: 0.4560	loss3: 0.0202	loss4: 0.2700	loss5: 0.5041	loss6: 0.0037	loss7: 0.1829	loss8: 0.1644
+epochs: 129, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2628	loss2: 0.4626	loss3: 0.0202	loss4: 0.2626	loss5: 0.5391	loss6: 0.0015	loss7: 0.1790	loss8: 0.1624
+epochs: 130, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2617	loss2: 0.4508	loss3: 0.0206	loss4: 0.2626	loss5: 0.5338	loss6: 0.0010	loss7: 0.1776	loss8: 0.1552
+epochs: 131, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2641	loss2: 0.4817	loss3: 0.0233	loss4: 0.2605	loss5: 0.5017	loss6: 0.0006	loss7: 0.1825	loss8: 0.1526
+epochs: 132, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2657	loss2: 0.4656	loss3: 0.0225	loss4: 0.2620	loss5: 0.5375	loss6: 0.0008	loss7: 0.1839	loss8: 0.1587
+epochs: 133, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2591	loss2: 0.4580	loss3: 0.0209	loss4: 0.2637	loss5: 0.5423	loss6: 0.0001	loss7: 0.1776	loss8: 0.1539
+epochs: 134, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2623	loss2: 0.4793	loss3: 0.0209	loss4: 0.2626	loss5: 0.5444	loss6: 0.0000	loss7: 0.1872	loss8: 0.1606
+epochs: 135, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2630	loss2: 0.4584	loss3: 0.0479	loss4: 0.2595	loss5: 0.5477	loss6: 0.0000	loss7: 0.1851	loss8: 0.1571
+epochs: 136, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2574	loss2: 0.4548	loss3: 0.0418	loss4: 0.2789	loss5: 0.5398	loss6: 0.0000	loss7: 0.1755	loss8: 0.1571
+epochs: 137, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2656	loss2: 0.4805	loss3: 0.0309	loss4: 0.2677	loss5: 0.5786	loss6: 0.0000	loss7: 0.1743	loss8: 0.1545
+epochs: 138, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2609	loss2: 0.4969	loss3: 0.0219	loss4: 0.2624	loss5: 0.5747	loss6: 0.0000	loss7: 0.1818	loss8: 0.1625
+epochs: 139, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2592	loss2: 0.4825	loss3: 0.0275	loss4: 0.2576	loss5: 0.5673	loss6: 0.0000	loss7: 0.1788	loss8: 0.1607
+epochs: 140, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2622	loss2: 0.4600	loss3: 0.0212	loss4: 0.2616	loss5: 0.5581	loss6: 0.0000	loss7: 0.1761	loss8: 0.1561
+epochs: 141, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2613	loss2: 0.4657	loss3: 0.0242	loss4: 0.2601	loss5: 0.5573	loss6: 0.0000	loss7: 0.1782	loss8: 0.1546
+epochs: 142, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2609	loss2: 0.4601	loss3: 0.0271	loss4: 0.2656	loss5: 0.5879	loss6: 0.0038	loss7: 0.1909	loss8: 0.1631
+epochs: 143, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2673	loss2: 0.4650	loss3: 0.0331	loss4: 0.2592	loss5: 0.5766	loss6: 0.0211	loss7: 0.1812	loss8: 0.1541
+epochs: 144, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2612	loss2: 0.4723	loss3: 0.0276	loss4: 0.2642	loss5: 0.5810	loss6: 0.0170	loss7: 0.1766	loss8: 0.1525
+epochs: 145, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2597	loss2: 0.5327	loss3: 0.1756	loss4: 0.2577	loss5: 0.6127	loss6: 0.4898	loss7: 0.1862	loss8: 0.1671
+epochs: 146, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2607	loss2: 0.4560	loss3: 0.0277	loss4: 0.2705	loss5: 0.5711	loss6: 0.0123	loss7: 0.1831	loss8: 0.1665
+epochs: 147, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2598	loss2: 0.4616	loss3: 0.0212	loss4: 0.2601	loss5: 0.5438	loss6: 0.0012	loss7: 0.1840	loss8: 0.1623
+epochs: 148, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2643	loss2: 0.4602	loss3: 0.0207	loss4: 0.2623	loss5: 0.5349	loss6: 0.0051	loss7: 0.1778	loss8: 0.1534
+epochs: 149, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2686	loss2: 0.4563	loss3: 0.0206	loss4: 0.2690	loss5: 0.5163	loss6: 0.0060	loss7: 0.1838	loss8: 0.1643
+epochs: 150, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2642	loss2: 0.4917	loss3: 0.0264	loss4: 0.2676	loss5: 0.5895	loss6: 0.0061	loss7: 0.1756	loss8: 0.1560
+epochs: 151, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2922	loss2: 0.5322	loss3: 0.0874	loss4: 0.2805	loss5: 0.6402	loss6: 0.1634	loss7: 0.1922	loss8: 0.1772
+epochs: 152, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2613	loss2: 0.4967	loss3: 0.0227	loss4: 0.2585	loss5: 0.6339	loss6: 0.0197	loss7: 0.1969	loss8: 0.1784
+epochs: 153, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2598	loss2: 0.4731	loss3: 0.0201	loss4: 0.2622	loss5: 0.5791	loss6: 0.0023	loss7: 0.1958	loss8: 0.1747
+epochs: 154, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2643	loss2: 0.4633	loss3: 0.0208	loss4: 0.2641	loss5: 0.5271	loss6: 0.0003	loss7: 0.1840	loss8: 0.1730
+epochs: 155, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2640	loss2: 0.4606	loss3: 0.0205	loss4: 0.2620	loss5: 0.5514	loss6: 0.0001	loss7: 0.1902	loss8: 0.1730
+epochs: 156, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2641	loss2: 0.4631	loss3: 0.0201	loss4: 0.2592	loss5: 0.5529	loss6: 0.0000	loss7: 0.1862	loss8: 0.1675
+epochs: 157, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2590	loss2: 0.4635	loss3: 0.0206	loss4: 0.2599	loss5: 0.5645	loss6: 0.0000	loss7: 0.1892	loss8: 0.1691
+epochs: 158, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2732	loss2: 0.4746	loss3: 0.0207	loss4: 0.2629	loss5: 0.5217	loss6: 0.0000	loss7: 0.1854	loss8: 0.1651
+epochs: 159, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2638	loss2: 0.4740	loss3: 0.0204	loss4: 0.2619	loss5: 0.5374	loss6: 0.0000	loss7: 0.1834	loss8: 0.1626
+epochs: 160, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2618	loss2: 0.4804	loss3: 0.0200	loss4: 0.2595	loss5: 0.5270	loss6: 0.0000	loss7: 0.1769	loss8: 0.1584
+epochs: 161, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2628	loss2: 0.4569	loss3: 0.0202	loss4: 0.2616	loss5: 0.5092	loss6: 0.0000	loss7: 0.1888	loss8: 0.1533
+epochs: 162, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2733	loss2: 0.4881	loss3: 0.0204	loss4: 0.2587	loss5: 0.5437	loss6: 0.0000	loss7: 0.1871	loss8: 0.1604
+epochs: 163, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2649	loss2: 0.4686	loss3: 0.0201	loss4: 0.2591	loss5: 0.5121	loss6: 0.0000	loss7: 0.1835	loss8: 0.1639
+epochs: 164, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2605	loss2: 0.5219	loss3: 0.0217	loss4: 0.2695	loss5: 0.5824	loss6: 0.0000	loss7: 0.1854	loss8: 0.1610
+epochs: 165, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2667	loss2: 0.4691	loss3: 0.0201	loss4: 0.2660	loss5: 0.5393	loss6: 0.0000	loss7: 0.1759	loss8: 0.1518
+epochs: 166, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2624	loss2: 0.4607	loss3: 0.0203	loss4: 0.2607	loss5: 0.5570	loss6: 0.0000	loss7: 0.1794	loss8: 0.1511
+epochs: 167, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2720	loss2: 0.4842	loss3: 0.0202	loss4: 0.2610	loss5: 0.5580	loss6: 0.0000	loss7: 0.1776	loss8: 0.1547
+epochs: 168, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2667	loss2: 0.4777	loss3: 0.0212	loss4: 0.2619	loss5: 0.5945	loss6: 0.0000	loss7: 0.1892	loss8: 0.1633
+epochs: 169, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2608	loss2: 0.4636	loss3: 0.0203	loss4: 0.2599	loss5: 0.5794	loss6: 0.0000	loss7: 0.1774	loss8: 0.1633
+epochs: 170, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2617	loss2: 0.4685	loss3: 0.0237	loss4: 0.2624	loss5: 0.5654	loss6: 0.0000	loss7: 0.1852	loss8: 0.1698
+epochs: 171, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2636	loss2: 0.4666	loss3: 0.0216	loss4: 0.2615	loss5: 0.5524	loss6: 0.0000	loss7: 0.1808	loss8: 0.1690
+epochs: 172, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2619	loss2: 0.4700	loss3: 0.0236	loss4: 0.2589	loss5: 0.5460	loss6: 0.0000	loss7: 0.1832	loss8: 0.1608
+epochs: 173, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2626	loss2: 0.4792	loss3: 0.0201	loss4: 0.2622	loss5: 0.5077	loss6: 0.0000	loss7: 0.1790	loss8: 0.1574
+epochs: 174, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2592	loss2: 0.4432	loss3: 0.0203	loss4: 0.2735	loss5: 0.5607	loss6: 0.0000	loss7: 0.1811	loss8: 0.1652
+epochs: 175, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2586	loss2: 0.4697	loss3: 0.0206	loss4: 0.2662	loss5: 0.5386	loss6: 0.0000	loss7: 0.1796	loss8: 0.1633
+epochs: 176, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2680	loss2: 0.4684	loss3: 0.0219	loss4: 0.2582	loss5: 0.5573	loss6: 0.0000	loss7: 0.1758	loss8: 0.1614
+epochs: 177, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2598	loss2: 0.4529	loss3: 0.0325	loss4: 0.2676	loss5: 0.5348	loss6: 0.0000	loss7: 0.1893	loss8: 0.1671
+epochs: 178, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2594	loss2: 0.4688	loss3: 0.0207	loss4: 0.2619	loss5: 0.5380	loss6: 0.0000	loss7: 0.1802	loss8: 0.1594
+epochs: 179, training task: 1
+	task: 0	loss1: 0.1129	loss2: 0.1432	loss3: 0.0458	loss4: 0.1352	loss5: 0.1000	loss6: 0.0611	loss7: 0.2388	loss8: 0.2137
+	task: 1	loss1: 0.2647	loss2: 0.4331	loss3: 0.0241	loss4: 0.2597	loss5: 0.5385	loss6: 0.0000	loss7: 0.1765	loss8: 0.1567
+epochs: 180, training task: 1
+	task: 0	loss1: 0.2572	loss2: 0.2428	loss3: 0.1251	loss4: 0.2431	loss5: 0.2706	loss6: 0.1011	loss7: 0.2977	loss8: 0.2622
+	task: 1	loss1: 0.2580	loss2: 0.3236	loss3: 0.0222	loss4: 0.2605	loss5: 0.2972	loss6: 0.0000	loss7: 0.1469	loss8: 0.1256
